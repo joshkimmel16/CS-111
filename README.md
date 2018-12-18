@@ -8,7 +8,7 @@ This repository contains all project work for CS 111 at UCLA (Fall 2018, Peter R
 * Project 3B - File System Consistency Analysis
 * Project 4C - Internet of Things Security
 
-### Incomplete Projects
+## Incomplete Projects
 
 Each project has its own README. Please refer to the individual README's for a list of known issues and/or incomplete aspects.
 
