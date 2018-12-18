@@ -1,0 +1,10 @@
+# Unnecessary Build Files #
+###################
+*.sh
+*.tar.gz
+*.txt
+*.csv
+*Project3A/*
+*Project3B/*
+*Project4C/*
+
